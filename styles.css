@@ -2,6 +2,7 @@ body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
+    background-color: #ffffff
 }
 
 header {
@@ -13,16 +14,24 @@ header {
     align-items: center;
 }
 
+.cap {
+    
+font-weight: bold;
+      }
+    
+
 .logo {
     font-size: 24px;
     font-weight: bold;
     text-align: left;
+    color: rgb(255, 255, 255)
 }
 
 nav ul {
     list-style: none;
     text-align: right;
     margin: 0;
+    
 }
 
 nav ul li {
